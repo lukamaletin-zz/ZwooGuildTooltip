@@ -1,0 +1,7 @@
+## Interface: 11303
+## Title: ZwooGuildTooltip
+## Author: Zwooma - Razorgore
+## Notes: Shows guild information in the tooltip.
+## Version: 1.0
+
+ZwooGuildTooltip.lua
